@@ -51,6 +51,7 @@
     {"id":{"name":"fontTimer","path":"fonts/fontTimer/fontTimer.yy",},},
     {"id":{"name":"Gameover","path":"fonts/Gameover/Gameover.yy",},},
     {"id":{"name":"oTimer","path":"objects/oTimer/oTimer.yy",},},
+    {"id":{"name":"oTimer2","path":"objects/oTimer2/oTimer2.yy",},},
     {"id":{"name":"End","path":"rooms/End/End.yy",},},
     {"id":{"name":"Track","path":"rooms/Track/Track.yy",},},
     {"id":{"name":"aikaksh_singh_routela_i","path":"sprites/aikaksh_singh_routela_i/aikaksh_singh_routela_i.yy",},},

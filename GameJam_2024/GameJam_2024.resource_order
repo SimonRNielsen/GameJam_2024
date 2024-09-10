@@ -21,6 +21,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"oTimer2","order":1,"path":"objects/oTimer2/oTimer2.yy",},
     {"name":"End","order":1,"path":"rooms/End/End.yy",},
   ],
 }

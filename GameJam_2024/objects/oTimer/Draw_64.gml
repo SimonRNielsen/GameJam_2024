@@ -10,9 +10,9 @@ draw_set_font(fontTimer);
 /// @DnDHash : 56FE504E
 /// @DnDArgument : "x" "80"
 /// @DnDArgument : "y" "5"
-/// @DnDArgument : "caption" ""Time Left ""
+/// @DnDArgument : "caption" ""Time Left: ""
 /// @DnDArgument : "var" "timer"
-draw_text(80, 5, string("Time Left ") + string(timer));
+draw_text(80, 5, string("Time Left: ") + string(timer));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Healthbar
 /// @DnDVersion : 1
