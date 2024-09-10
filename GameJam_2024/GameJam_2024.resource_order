@@ -16,11 +16,13 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Coins","order":1,"path":"folders/Sprites/Coins.yy",},
     {"name":"Tornados","order":2,"path":"folders/Sprites/Tornados.yy",},
+    {"name":"Environment","order":1,"path":"folders/Sprites/Environment.yy",},
+    {"name":"Tilesets","order":1,"path":"folders/Sprites/Environment/Tilesets.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
-    {"name":"Track","order":1,"path":"folders/Tile Sets/Track.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"Obj_Tornado","order":1,"path":"objects/Obj_Tornado/Obj_Tornado.yy",},
+    {"name":"Tiles_Track","order":1,"path":"sprites/Tiles_Track/Tiles_Track.yy",},
   ],
 }
