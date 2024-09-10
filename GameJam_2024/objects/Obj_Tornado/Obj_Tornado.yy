@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Tornado",
-    "path":"sprites/Tornado/Tornado.yy",
+    "name":"Spr_Tornado",
+    "path":"sprites/Spr_Tornado/Spr_Tornado.yy",
   },
   "spriteMaskId":null,
   "visible":true,
