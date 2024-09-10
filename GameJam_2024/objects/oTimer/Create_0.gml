@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 36587375
-/// @DnDArgument : "expr" "10"
+/// @DnDArgument : "expr" "120"
 /// @DnDArgument : "var" "timer"
-timer = 10;
+timer = 120;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
