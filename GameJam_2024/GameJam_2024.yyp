@@ -48,6 +48,7 @@
   "name":"GameJam_2024",
   "resources":[
     {"id":{"name":"Track","path":"rooms/Track/Track.yy",},},
+    {"id":{"name":"Collisions","path":"scripts/Collisions/Collisions.yy",},},
     {"id":{"name":"background_grass","path":"sprites/background_grass/background_grass.yy",},},
     {"id":{"name":"Tiles_Track","path":"sprites/Tiles_Track/Tiles_Track.yy",},},
     {"id":{"name":"TileSet_Track","path":"tilesets/TileSet_Track/TileSet_Track.yy",},},
