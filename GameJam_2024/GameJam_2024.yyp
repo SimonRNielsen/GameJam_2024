@@ -23,6 +23,8 @@
     {"$GMFolder":"","%Name":"Shaders","folderPath":"folders/Shaders.yy","name":"Shaders","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Environment","folderPath":"folders/Sprites/Environment.yy","name":"Environment","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Tilesets","folderPath":"folders/Sprites/Environment/Tilesets.yy","name":"Tilesets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Track","folderPath":"folders/Tile Sets/Track.yy","name":"Track","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -45,7 +47,8 @@
   "name":"GameJam_2024",
   "resources":[
     {"id":{"name":"Track","path":"rooms/Track/Track.yy",},},
-    {"id":{"name":"spritesheet_tiles","path":"sprites/spritesheet_tiles/spritesheet_tiles.yy",},},
+    {"id":{"name":"Tiles_Track","path":"sprites/Tiles_Track/Tiles_Track.yy",},},
+    {"id":{"name":"TileSet_Track","path":"tilesets/TileSet_Track/TileSet_Track.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
