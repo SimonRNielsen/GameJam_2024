@@ -15,9 +15,12 @@
     {"name":"CoinSounds","order":1,"path":"folders/Sounds/CoinSounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Coins","order":1,"path":"folders/Sprites/Coins.yy",},
+    {"name":"Tornados","order":2,"path":"folders/Sprites/Tornados.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Track","order":1,"path":"folders/Tile Sets/Track.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Tornado","order":1,"path":"objects/Tornado/Tornado.yy",},
+  ],
 }

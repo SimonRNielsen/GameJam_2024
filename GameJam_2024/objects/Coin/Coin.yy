@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
+  "%Name":"Coin",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object1",
+  "name":"Coin",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
