@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Coin",
+  "%Name":"Obj_Coin",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Coin",
+  "name":"Obj_Coin",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Coin1",
-    "path":"sprites/Coin1/Coin1.yy",
+    "name":"Coin",
+    "path":"sprites/Coin/Coin.yy",
   },
   "spriteMaskId":null,
   "visible":true,

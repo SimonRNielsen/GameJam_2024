@@ -21,6 +21,6 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Tornado","order":1,"path":"objects/Tornado/Tornado.yy",},
+    {"name":"Obj_Tornado","order":1,"path":"objects/Obj_Tornado/Obj_Tornado.yy",},
   ],
 }

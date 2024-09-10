@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Tornado",
+  "%Name":"Obj_Tornado",
   "eventList":[],
   "managed":true,
-  "name":"Tornado",
+  "name":"Obj_Tornado",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Tornado",
+    "path":"sprites/Tornado/Tornado.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
