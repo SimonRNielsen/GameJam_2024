@@ -23,5 +23,6 @@
   "ResourceOrderSettings":[
     {"name":"oTimer2","order":1,"path":"objects/oTimer2/oTimer2.yy",},
     {"name":"End","order":1,"path":"rooms/End/End.yy",},
+    {"name":"MenuRoom","order":2,"path":"rooms/MenuRoom/MenuRoom.yy",},
   ],
 }
