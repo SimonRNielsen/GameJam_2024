@@ -9,7 +9,7 @@
   "canGenerateBitmap":true,
   "charset":0,
   "first":0,
-  "fontName":"Eras Demi ITC",
+  "fontName":"particle_editor_icon_font",
   "glyphOperations":0,
   "glyphs":{
     "32":{"character":32,"h":25,"offset":0,"shift":5,"w":5,"x":2,"y":2,},
