@@ -1,3 +1,12 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 1705CFDD
+/// @DnDArgument : "soundid" "sound_click"
+/// @DnDArgument : "gain" "0.9"
+/// @DnDArgument : "pitch" "random_range(0.9, 1.1)"
+/// @DnDSaveInfo : "soundid" "sound_click"
+audio_play_sound(sound_click, 0, 0, 0.9, undefined, random_range(0.9, 1.1));
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 615FF820
