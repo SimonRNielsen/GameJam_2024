@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Tornado",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_collision",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_Tornado",
+  "name":"obj_collision",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Vehicles",
+    "path":"folders/Objects/Vehicles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_Tornado",
-    "path":"sprites/Spr_Tornado/Spr_Tornado.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
