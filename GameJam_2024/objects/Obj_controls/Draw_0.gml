@@ -11,8 +11,8 @@ draw_set_valign(fa_middle);
 /// @DnDHash : 54C6E8C7
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "caption" ""Move with\n W A S D\n Up Down Left Right\n I J K L ""
-draw_text(x + 0, y + 0, string("Move with\n W A S D\n Up Down Left Right\n I J K L ") + "");
+/// @DnDArgument : "caption" ""Move with\n W A S D\n I J K L ""
+draw_text(x + 0, y + 0, string("Move with\n W A S D\n I J K L ") + "");
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
