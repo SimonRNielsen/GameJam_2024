@@ -1,18 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"MainController",
+  "%Name":"BlueCar",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"MainController",
+  "name":"BlueCar",
   "overriddenProperties":[],
   "parent":{
     "name":"Vehicles",
     "path":"folders/Objects/Vehicles.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"CommonCar",
+    "path":"objects/CommonCar/CommonCar.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"car_blue_1",
+    "path":"sprites/car_blue_1/car_blue_1.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

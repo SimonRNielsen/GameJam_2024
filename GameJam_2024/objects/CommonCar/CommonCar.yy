@@ -1,20 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"BlackCar",
+  "%Name":"CommonCar",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"BlackCar",
+  "name":"CommonCar",
   "overriddenProperties":[],
   "parent":{
     "name":"Vehicles",
     "path":"folders/Objects/Vehicles.yy",
   },
-  "parentObjectId":{
-    "name":"CommonCar",
-    "path":"objects/CommonCar/CommonCar.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"car_black_4",
-    "path":"sprites/car_black_4/car_black_4.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

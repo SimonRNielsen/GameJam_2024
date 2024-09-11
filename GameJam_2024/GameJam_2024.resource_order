@@ -21,5 +21,10 @@
   ],
   "ResourceOrderSettings":[
     {"name":"BlackCar","order":1,"path":"objects/BlackCar/BlackCar.yy",},
+    {"name":"BlueCar","order":2,"path":"objects/BlueCar/BlueCar.yy",},
+    {"name":"CommonCar","order":4,"path":"objects/CommonCar/CommonCar.yy",},
+    {"name":"GreenCar","order":3,"path":"objects/GreenCar/GreenCar.yy",},
+    {"name":"car_blue_1","order":1,"path":"sprites/car_blue_1/car_blue_1.yy",},
+    {"name":"car_green_5","order":2,"path":"sprites/car_green_5/car_green_5.yy",},
   ],
 }

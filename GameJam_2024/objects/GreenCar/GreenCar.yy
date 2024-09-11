@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"BlackCar",
+  "%Name":"GreenCar",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"BlackCar",
+  "name":"GreenCar",
   "overriddenProperties":[],
   "parent":{
     "name":"Vehicles",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"car_black_4",
-    "path":"sprites/car_black_4/car_black_4.yy",
+    "name":"car_green_5",
+    "path":"sprites/car_green_5/car_green_5.yy",
   },
   "spriteMaskId":null,
   "visible":true,
