@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Timer",
-    "path":"folders/Objects/Timer.yy",
+    "path":"folders/Objects/UI/Timer.yy",
   },
   "parentObjectId":null,
   "persistent":false,
