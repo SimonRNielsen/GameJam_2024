@@ -22,8 +22,8 @@ else{	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 3505C179
 	/// @DnDParent : 1B3A2393
-	/// @DnDArgument : "xpos" "room width / 600"
-	/// @DnDArgument : "ypos" "room height / 500"
+	/// @DnDArgument : "xpos" "room_width / 5"
+	/// @DnDArgument : "ypos" "room_height - 250"
 	/// @DnDArgument : "objectid" "Obj_controls"
 	/// @DnDSaveInfo : "objectid" "Obj_controls"
-	instance_create_layer(room width / 600, room height / 500, "Instances", Obj_controls);}
+	instance_create_layer(room_width / 5, room_height - 250, "Instances", Obj_controls);}
