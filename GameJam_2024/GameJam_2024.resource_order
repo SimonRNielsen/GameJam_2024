@@ -32,6 +32,7 @@
     {"name":"Obj_parrot_parent","order":2,"path":"objects/Obj_parrot_parent/Obj_parrot_parent.yy",},
     {"name":"Obj_Tornado","order":1,"path":"objects/Obj_Tornado/Obj_Tornado.yy",},
     {"name":"Obj_yellow_parrot","order":1,"path":"objects/Obj_yellow_parrot/Obj_yellow_parrot.yy",},
+    {"name":"Backup","order":1,"path":"rooms/Backup/Backup.yy",},
     {"name":"Autumn_tree1","order":6,"path":"sprites/Autumn_tree1/Autumn_tree1.yy",},
     {"name":"Autumn_tree2","order":7,"path":"sprites/Autumn_tree2/Autumn_tree2.yy",},
     {"name":"Autumn_tree3","order":8,"path":"sprites/Autumn_tree3/Autumn_tree3.yy",},

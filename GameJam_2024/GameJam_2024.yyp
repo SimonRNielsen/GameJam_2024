@@ -62,6 +62,7 @@
     {"id":{"name":"Obj_red_parrot","path":"objects/Obj_red_parrot/Obj_red_parrot.yy",},},
     {"id":{"name":"Obj_Tornado","path":"objects/Obj_Tornado/Obj_Tornado.yy",},},
     {"id":{"name":"Obj_yellow_parrot","path":"objects/Obj_yellow_parrot/Obj_yellow_parrot.yy",},},
+    {"id":{"name":"Backup","path":"rooms/Backup/Backup.yy",},},
     {"id":{"name":"Track","path":"rooms/Track/Track.yy",},},
     {"id":{"name":"Collisions","path":"scripts/Collisions/Collisions.yy",},},
     {"id":{"name":"Sound_Coin_Pickup","path":"sounds/Sound_Coin_Pickup/Sound_Coin_Pickup.yy",},},
@@ -103,6 +104,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Track","path":"rooms/Track/Track.yy",},},
+    {"roomId":{"name":"Backup","path":"rooms/Backup/Backup.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
