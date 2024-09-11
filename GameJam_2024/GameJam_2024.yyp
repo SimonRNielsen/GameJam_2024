@@ -58,6 +58,7 @@
   "name":"GameJam_2024",
   "resources":[
     {"id":{"name":"Obj_Coin","path":"objects/Obj_Coin/Obj_Coin.yy",},},
+    {"id":{"name":"Obj_parrot_parent","path":"objects/Obj_parrot_parent/Obj_parrot_parent.yy",},},
     {"id":{"name":"Obj_red_parrot","path":"objects/Obj_red_parrot/Obj_red_parrot.yy",},},
     {"id":{"name":"Obj_Tornado","path":"objects/Obj_Tornado/Obj_Tornado.yy",},},
     {"id":{"name":"Obj_yellow_parrot","path":"objects/Obj_yellow_parrot/Obj_yellow_parrot.yy",},},

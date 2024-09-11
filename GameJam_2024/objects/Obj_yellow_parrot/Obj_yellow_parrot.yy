@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"Obj_yellow_parrot",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"Obj_yellow_parrot",
   "overriddenProperties":[],
@@ -11,7 +9,10 @@
     "name":"Birds",
     "path":"folders/Objects/Environment/Birds.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_parrot_parent",
+    "path":"objects/Obj_parrot_parent/Obj_parrot_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
