@@ -32,6 +32,7 @@
     {"name":"Obj_button_parent","order":3,"path":"objects/Obj_button_parent/Obj_button_parent.yy",},
     {"name":"Obj_button_play","order":4,"path":"objects/Obj_button_play/Obj_button_play.yy",},
     {"name":"Obj_button_quit","order":5,"path":"objects/Obj_button_quit/Obj_button_quit.yy",},
+    {"name":"Obj_button_restart","order":8,"path":"objects/Obj_button_restart/Obj_button_restart.yy",},
     {"name":"Obj_controls","order":7,"path":"objects/Obj_controls/Obj_controls.yy",},
     {"name":"Obj_Tornado","order":1,"path":"objects/Obj_Tornado/Obj_Tornado.yy",},
     {"name":"oTimer2","order":1,"path":"objects/oTimer2/oTimer2.yy",},

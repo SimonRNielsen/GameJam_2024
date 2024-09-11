@@ -62,6 +62,7 @@
     {"id":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},},
     {"id":{"name":"Obj_button_play","path":"objects/Obj_button_play/Obj_button_play.yy",},},
     {"id":{"name":"Obj_button_quit","path":"objects/Obj_button_quit/Obj_button_quit.yy",},},
+    {"id":{"name":"Obj_button_restart","path":"objects/Obj_button_restart/Obj_button_restart.yy",},},
     {"id":{"name":"Obj_Coin","path":"objects/Obj_Coin/Obj_Coin.yy",},},
     {"id":{"name":"Obj_controls","path":"objects/Obj_controls/Obj_controls.yy",},},
     {"id":{"name":"Obj_Tornado","path":"objects/Obj_Tornado/Obj_Tornado.yy",},},
