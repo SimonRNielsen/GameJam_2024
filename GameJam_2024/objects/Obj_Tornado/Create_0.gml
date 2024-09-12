@@ -1,4 +1,5 @@
-/// Give the tornado random movement and speed
-direction = choose(0, 45, 90, 135, 180, 225, 270, 315);
-speed = irandom_range(3, 6);
-
+/// Give the tornado random movement and speed when created
+direction = irandom(360);
+speed = irandom_range(8, 24);
+rotate_timer = 0;
+rotate_timer_max = 60; // increase this to make your timer go off less frequently
