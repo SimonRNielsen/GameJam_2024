@@ -267,6 +267,7 @@
     {"name":"inst_3B0CEDC7","path":"rooms/Track/Track.yy",},
     {"name":"inst_52B2DE4F","path":"rooms/Track/Track.yy",},
     {"name":"inst_3D053EA2","path":"rooms/Track/Track.yy",},
+    {"name":"inst_4CE3CDFE","path":"rooms/Track/Track.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -274,6 +275,7 @@
         {"$GMRInstance":"v1","%Name":"inst_3B0CEDC7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3B0CEDC7","objectId":{"name":"oTimer","path":"objects/oTimer/oTimer.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4512.0,"y":224.0,},
         {"$GMRInstance":"v1","%Name":"inst_52B2DE4F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_52B2DE4F","objectId":{"name":"ScreenSplit","path":"objects/ScreenSplit/ScreenSplit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4544.0,"y":224.0,},
         {"$GMRInstance":"v1","%Name":"inst_3D053EA2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3D053EA2","objectId":{"name":"Obj_track_music","path":"objects/Obj_track_music/Obj_track_music.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4576.0,"y":224.0,},
+        {"$GMRInstance":"v1","%Name":"inst_4CE3CDFE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4CE3CDFE","objectId":{"name":"CoinUI","path":"objects/CoinUI/CoinUI.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4736.0,"y":224.0,},
       ],"layers":[],"name":"UI","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Birds","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_116ED29B_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_116ED29B_1","objectId":{"name":"Obj_red_parrot","path":"objects/Obj_red_parrot/Obj_red_parrot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1984.0,"y":1120.0,},
