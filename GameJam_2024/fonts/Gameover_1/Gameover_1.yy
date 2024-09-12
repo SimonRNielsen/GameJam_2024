@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"Gameover",
+  "%Name":"Gameover_1",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":98,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":120,
   "maintainGms1Font":false,
-  "name":"Gameover",
+  "name":"Gameover_1",
   "parent":{
     "name":"Text",
     "path":"folders/Objects/Text.yy",
