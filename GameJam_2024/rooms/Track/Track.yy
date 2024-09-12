@@ -262,6 +262,7 @@
     {"name":"inst_4A176897_1","path":"rooms/Track/Track.yy",},
     {"name":"inst_6AD5F192_1","path":"rooms/Track/Track.yy",},
     {"name":"inst_26D34B6F_1","path":"rooms/Track/Track.yy",},
+    {"name":"inst_6E12916B","path":"rooms/Track/Track.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -522,6 +523,7 @@
         {"$GMRInstance":"v1","%Name":"inst_4A176897_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4A176897_1","objectId":{"name":"Obj_yellow_parrot","path":"objects/Obj_yellow_parrot/Obj_yellow_parrot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2816.0,"y":5280.0,},
         {"$GMRInstance":"v1","%Name":"inst_6AD5F192_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6AD5F192_1","objectId":{"name":"Obj_yellow_parrot","path":"objects/Obj_yellow_parrot/Obj_yellow_parrot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2976.0,"y":5216.0,},
         {"$GMRInstance":"v1","%Name":"inst_26D34B6F_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_26D34B6F_1","objectId":{"name":"Obj_yellow_parrot","path":"objects/Obj_yellow_parrot/Obj_yellow_parrot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2816.0,"y":5216.0,},
+        {"$GMRInstance":"v1","%Name":"inst_6E12916B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6E12916B","objectId":{"name":"Tornado_Random_Spawner","path":"objects/Tornado_Random_Spawner/Tornado_Random_Spawner.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":5024.0,"y":5632.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Environment","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_3F685FC7_1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_3F685FC7_1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":2.5,"scaleY":2.5,"spriteId":{"name":"Autumn_tree1","path":"sprites/Autumn_tree1/Autumn_tree1.yy",},"x":2560.0,"y":1408.0,},
