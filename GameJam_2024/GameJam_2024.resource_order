@@ -45,6 +45,7 @@
     {"name":"sound_gameover_music","order":3,"path":"sounds/sound_gameover_music/sound_gameover_music.yy",},
     {"name":"sound_menu_music","order":2,"path":"sounds/sound_menu_music/sound_menu_music.yy",},
     {"name":"sound_trackmusic","order":1,"path":"sounds/sound_trackmusic/sound_trackmusic.yy",},
+    {"name":"hud_coin","order":1,"path":"sprites/hud_coin/hud_coin.yy",},
     {"name":"Tiles_Track","order":1,"path":"sprites/Tiles_Track/Tiles_Track.yy",},
   ],
 }

@@ -127,6 +127,8 @@
     {"id":{"name":"Container_C","path":"sprites/Container_C/Container_C.yy",},},
     {"id":{"name":"Container_D","path":"sprites/Container_D/Container_D.yy",},},
     {"id":{"name":"Decor_Building","path":"sprites/Decor_Building/Decor_Building.yy",},},
+    {"id":{"name":"hud_background","path":"sprites/hud_background/hud_background.yy",},},
+    {"id":{"name":"hud_coin","path":"sprites/hud_coin/hud_coin.yy",},},
     {"id":{"name":"Oil","path":"sprites/Oil/Oil.yy",},},
     {"id":{"name":"Puddle_01","path":"sprites/Puddle_01/Puddle_01.yy",},},
     {"id":{"name":"Puddle_02","path":"sprites/Puddle_02/Puddle_02.yy",},},
