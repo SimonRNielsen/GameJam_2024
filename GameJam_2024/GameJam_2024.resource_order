@@ -22,6 +22,7 @@
     {"name":"Environment","order":1,"path":"folders/Sprites/Environment.yy",},
     {"name":"Background","order":2,"path":"folders/Sprites/Environment/Background.yy",},
     {"name":"Tilesets","order":1,"path":"folders/Sprites/Environment/Tilesets.yy",},
+    {"name":"HUD","order":4,"path":"folders/Sprites/HUD.yy",},
     {"name":"Tornados","order":2,"path":"folders/Sprites/Tornados.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},

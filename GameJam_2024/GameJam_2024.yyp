@@ -42,6 +42,7 @@
     {"$GMFolder":"","%Name":"Decor","folderPath":"folders/Sprites/Environment/Decor.yy","name":"Decor","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tilesets","folderPath":"folders/Sprites/Environment/Tilesets.yy","name":"Tilesets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Trees","folderPath":"folders/Sprites/Environment/Trees.yy","name":"Trees","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"HUD","folderPath":"folders/Sprites/HUD.yy","name":"HUD","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tornados","folderPath":"folders/Sprites/Tornados.yy","name":"Tornados","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Vehicles","folderPath":"folders/Sprites/Vehicles.yy","name":"Vehicles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},

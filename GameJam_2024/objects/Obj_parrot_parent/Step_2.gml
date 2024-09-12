@@ -28,11 +28,11 @@ else{	/// @DnDAction : YoYo Games.Common.If_Variable
 
 	/// @DnDAction : YoYo Games.Common.Else
 	/// @DnDVersion : 1
-	/// @DnDHash : 2801BB35
+	/// @DnDHash : 4A04092B
 	/// @DnDParent : 44EE1B12
 	else{	/// @DnDAction : YoYo Games.Instances.Sprite_Scale
 		/// @DnDVersion : 1
-		/// @DnDHash : 2CA496E5
-		/// @DnDParent : 2801BB35
+		/// @DnDHash : 78248285
+		/// @DnDParent : 4A04092B
 		/// @DnDArgument : "xscale" "-1"
 		image_xscale = -1;image_yscale = 1;}}
