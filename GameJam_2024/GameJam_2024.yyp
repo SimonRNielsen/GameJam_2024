@@ -18,7 +18,6 @@
     {"$GMFolder":"","%Name":"Environment","folderPath":"folders/Objects/Environment.yy","name":"Environment","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Birds","folderPath":"folders/Objects/Environment/Birds.yy","name":"Birds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Text","folderPath":"folders/Objects/Text.yy","name":"Text","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Timer","folderPath":"folders/Objects/Timer.yy","name":"Timer","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tornado_Spawner","folderPath":"folders/Objects/Tornado_Spawner.yy","name":"Tornado_Spawner","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"UI","folderPath":"folders/Objects/UI.yy","name":"UI","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timer","folderPath":"folders/Objects/UI/Timer.yy","name":"Timer","resourceType":"GMFolder","resourceVersion":"2.0",},
