@@ -1,5 +1,8 @@
 {
   "FolderOrderSettings":[
+    {"name":"Coin_Spawner","order":1,"path":"folders/Objects/Coin_Spawner.yy",},
+  ],
+  "ResourceOrderSettings":[],
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
