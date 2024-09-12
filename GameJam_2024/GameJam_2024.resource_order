@@ -1,4 +1,6 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Coin_Spawner","order":1,"path":"folders/Objects/Coin_Spawner.yy",},
+  ],
   "ResourceOrderSettings":[],
 }
